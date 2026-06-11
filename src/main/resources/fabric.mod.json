@@ -3,15 +3,15 @@
 	"id": "panoshot",
 	"version": "${version}",
 	"name": "PanoShot",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Take panorama screenshots in Minecraft: Java Edition!",
 	"authors": [
-		"Me!"
+		"LumiMakesStuff"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/panoshot/icon.png",
 	"environment": "*",
 	"entrypoints": {
